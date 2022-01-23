@@ -6,67 +6,67 @@ const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
     title: "I am Data Scientist",
-    cardImage: "assets\images\education-page\datasc.png",
+    cardImage: "assets/images/education-page/datasc.png",
     moocLink: "https://api.badgr.io/public/assertions/8bLUrJhgSMyWKF-I7xOosQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Exploratory Data Analysis (EDA)",
-    cardImage: "assets\images\education-page\eda.png",
+    cardImage: "assets/images/education-page/eda.png",
     moocLink: "https://api.badgr.io/public/assertions/CzJV6Kp6SbCV1t1TepAJ-A?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Machine Learning",
-    cardImage: "assets\images\education-page\ml.png",
+    cardImage: "assets/images/education-page/ml.png",
     moocLink: "https://api.badgr.io/public/assertions/oYT8cQGQR6-_KWr0VOANCQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Python Fundamentals",
-    cardImage: "assets\images\education-page\python.png",
+    cardImage: "assets/images/education-page/python.png",
     moocLink: "https://api.badgr.io/public/assertions/N4-Vzm1iSw2OBcwXVatcmA?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Analyst",
-    cardImage: "assets\images\education-page\data_ana.png",
+    cardImage: "assets/images/education-page/data_ana.png",
     moocLink: "https://api.badgr.io/public/assertions/DdXRakN0Q5GrXC8iNNGLsQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Deep Learning",
-    cardImage: "assets\images\education-page\deep.png",
+    cardImage: "assets/images/education-page/deep.png",
     moocLink: "https://api.badgr.io/public/assertions/W8PFdyotRSC95rZmYcR2Ag?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Machine Learning Engineer",
-    cardImage: "assets\images\education-page\enginee.png",
+    cardImage: "assets/images/education-page/enginee.png",
     moocLink: "https://api.badgr.io/public/assertions/TeA-uJkiQ2q3Hzib0xIb3Q?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "NLP",
-    cardImage: "assets\images\education-page\nlp.png",
+    cardImage: "assets/images/education-page/nlp.png",
     moocLink: "https://api.badgr.io/public/assertions/UZnYyzKbQfGWRtrCDUWc4Q?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "TensorFlow & Keras",
-    cardImage: "assets\images\education-page\tensor.png",
+    cardImage: "assets/images/education-page/tensor.png",
     moocLink: "https://api.badgr.io/public/assertions/0er2sNKkSFWAmgSEsvyvhQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Time Series Analysis",
-    cardImage: "assets\images\education-page\time.png",
+    cardImage: "assets/images/education-page/time.png",
     moocLink: "https://api.badgr.io/public/assertions/WsPl5iilQJeyusXv2SNLhA?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Wrangling",
-    cardImage: "assets\images\education-page\war.png",
+    cardImage: "assets/images/education-page/war.png",
     moocLink: "https://api.badgr.io/public/assertions/07W2cTOZSQ6blC1674AOkw?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Visualization",
-    cardImage: "assets\images\education-page\visu.png",
+    cardImage: "assets/images/education-page/visu.png",
     moocLink: "https://api.badgr.io/public/assertions/0R4Qz9dgRNmlT9SDZl1cHg?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "MLOps",
-    cardImage: "assets\images\education-page\mlop.png",
+    cardImage: "assets/images/education-page/mlop.png",
     moocLink: "https://api.badgr.io/public/assertions/aPD7R759S8SC2duhFKt4Tw?identity__email=jamr1989%40gmail.com",
   },
 ];
@@ -145,67 +145,67 @@ const bagdes = document.querySelector(".badges");
 const badgesection = [
   {
     title: "I am Data Scientist",
-    image: "assets\images\education-page\datasc.png",
+    image: "assets/images/education-page/datasc.png",
     description: "https://api.badgr.io/public/assertions/8bLUrJhgSMyWKF-I7xOosQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Exploratory Data Analysis (EDA)",
-    image: "assets\images\education-page\eda.png",
+    image: "assets/images/education-page/eda.png",
     description: "https://api.badgr.io/public/assertions/CzJV6Kp6SbCV1t1TepAJ-A?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Machine Learning",
-    image: "assets\images\education-page\ml.png",
+    image: "assets/images/education-page/ml.png",
     description: "https://api.badgr.io/public/assertions/oYT8cQGQR6-_KWr0VOANCQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Python Fundamentals",
-    image: "assets\images\education-page\python.png",
+    image: "assets/images/education-page/python.png",
     description: "https://api.badgr.io/public/assertions/N4-Vzm1iSw2OBcwXVatcmA?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Analyst",
-    image: "assets\images\education-page\data_ana.png",
+    image: "assets/images/education-page/data_ana.png",
     description: "https://api.badgr.io/public/assertions/DdXRakN0Q5GrXC8iNNGLsQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Deep Learning",
-    image: "assets\images\education-page\deep.png",
+    image: "assets/images/education-page/deep.png",
     description: "https://api.badgr.io/public/assertions/W8PFdyotRSC95rZmYcR2Ag?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Machine Learning Engineer",
-    image: "assets\images\education-page\enginee.png",
+    image: "assets/images/education-page/enginee.png",
     description: "https://api.badgr.io/public/assertions/TeA-uJkiQ2q3Hzib0xIb3Q?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "NLP",
-    image: "assets\images\education-page\nlp.png",
+    image: "assets/images/education-page/nlp.png",
     description: "https://api.badgr.io/public/assertions/UZnYyzKbQfGWRtrCDUWc4Q?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "TensorFlow & Keras",
-    image: "assets\images\education-page\tensor.png",
+    image: "assets/images/education-page/tensor.png",
     description: "https://api.badgr.io/public/assertions/0er2sNKkSFWAmgSEsvyvhQ?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Time Series Analysis",
-    image: "assets\images\education-page\time.png",
+    image: "assets/images/education-page/time.png",
     description: "https://api.badgr.io/public/assertions/WsPl5iilQJeyusXv2SNLhA?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Wrangling",
-    image: "assets\images\education-page\war.png",
+    image: "assets/images/education-page/war.png",
     description: "https://api.badgr.io/public/assertions/07W2cTOZSQ6blC1674AOkw?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "Data Visualization",
-    image: "assets\images\education-page\visu.png",
+    image: "assets/images/education-page/visu.png",
     description: "https://api.badgr.io/public/assertions/0R4Qz9dgRNmlT9SDZl1cHg?identity__email=jamr1989%40gmail.com",
   },
   {
     title: "MLOps",
-    image: "assets\images\education-page\mlop.png",
+    image: "assets/images/education-page/mlop.png",
     description: "https://api.badgr.io/public/assertions/aPD7R759S8SC2duhFKt4Tw?identity__email=jamr1989%40gmail.com",
   },
 ];

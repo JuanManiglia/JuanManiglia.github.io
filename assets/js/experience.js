@@ -7,21 +7,21 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Asistente de Ingeniero",
-    cardImage: "assets\images\experience-page\Shanna.png",
+    cardImage: "assets/images/experience-page/Shanna.png",
     place: "Constructora Shanna",
     time: "(Abr, 2007 - 2018)",
     desp: "<li>Dar asistencia en estudios técnicos y básicos, anteproyectos, proyectos y presupuestos de las obras, siguiendo las instrucciones emitidas por los profesionales encargados.</li> <li>Participar y colaborar en la coordinación de proyectos u obras para llevar un control del avance alcanzado y de las etapas por concluir.</li> <li>Elaborar cálculos matemáticos y de costos de diferentes obras o estructuras civiles, Reconocer e interpretar planos y hojas cartográficas, curvas de nivel, perfiles de terreno.</li>",
   },
   {
     title: "Docente Dibujo Técnico",
-    cardImage: "assets\images\experience-page\CCTO5.gif",
+    cardImage: "assets/images/experience-page/CCTO5.gif",
     place: "Colegio Ciencia y Tecnología Orinoco",
     time: "(Oct, 2015 - Jul, 2018)",
     desp: "<li>Clases a 6 grupos de diferentes niveles educativos.</li><li>Aplicación de métodos de enseñanza iductiva, analógica e inversa.</li><li>Preparación de materiales didácticos para mejorar la experiencia y el aprendizaje del alumnado.</li></li>Capacidades comunicativas para captar la atención del alumnado</li>"
   },
   {
     title: "Encargado de Restaurante",
-    cardImage: "assets\images\experience-page\meraki.jpg",
+    cardImage: "assets/images/experience-page/meraki.jpg",
     place: "meraki kitchen & bar",
     time: "(Nov, 2018 - Jun, 2021)",
     desp:"<li>Diseñar el horario del personal para garantizar una dotación adecuada.</li><li>Hacer seguimiento de los niveles de alimentos, suministros y equipos, prever necesidades y supervisar los pedidos cuando proceda.</li></li>Responsable de los presupuestos y de métodos de control de coste para minimizar gastos.</li></li>Cargar en el sistema el inventario de compras y administrar insumos equipos y bebidas</li>",
