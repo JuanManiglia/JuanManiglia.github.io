@@ -10,7 +10,7 @@ const projects = [
     cardImage: "assets/images/project-page/Etapas-del-analisis-de-datos.png",
     description: "Analisis exploratorio de datos sobre MAL.",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/Exploratory_Data_Analysis",
     Githublink: "https://github.com/JuanManiglia/Exploratory_Data_Analysis",
   },
   {
@@ -18,7 +18,7 @@ const projects = [
     cardImage: "assets/images/project-page/Machine-Learning-01.jpg",
     description: "Proyecto de ML (GANs, Sistema de recomendacion, Predictor de Score) MAL.",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/Machine_Learning_Project",
     Githublink: "https://github.com/JuanManiglia/Machine_Learning_Project",
   },
   {
@@ -26,7 +26,7 @@ const projects = [
     cardImage: "assets/images/project-page/sp500.jpg",
     description: "Analisis Exploratorio de Datos sobre el S&P500",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/S-P500",
     Githublink: "https://github.com/JuanManiglia/S-P500",
   },
   {
@@ -34,7 +34,7 @@ const projects = [
     cardImage: "assets/images/project-page/sysrec.jpg",
     description: "Sistema de recomendación de Películas.",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/ReSys_Movies",
     Githublink: "https://github.com/JuanManiglia/ReSys_Movies",
   },
   {
@@ -42,7 +42,7 @@ const projects = [
     cardImage: "assets/images/project-page/bitcoin1.jpg",
     description: "TimeSeries predictor de Bitcoin.",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/Bitcoin",
     Githublink: "https://github.com/JuanManiglia/Bitcoin",
   },
   {
@@ -50,7 +50,7 @@ const projects = [
     cardImage: "assets/images/project-page/mario.png",
     description: "ML de Mario por refuerzo.",
     tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
+    Previewlink: "https://github.com/JuanManiglia/Mario_ML",
     Githublink: "https://github.com/JuanManiglia/Mario_ML",
   },
   // {
