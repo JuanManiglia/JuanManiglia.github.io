@@ -38,14 +38,6 @@ const projects = [
     Githublink: "https://github.com/JuanManiglia/ReSys_Movies",
   },
   {
-    title: "Recipe Ingredient Parser",
-    cardImage: "assets/images/project-page/recipe.jpg",
-    description: "Recipe Ingredient Parser built using JavaScript.",
-    tagimg: "assets/images/project-page/python.svg",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
     title: "Bitcoin",
     cardImage: "assets/images/project-page/bitcoin1.jpg",
     description: "TimeSeries predictor de Bitcoin.",
