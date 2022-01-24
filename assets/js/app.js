@@ -133,12 +133,11 @@ let footer = $(`
                 <h6 class="display">Get in Touch</h6>
               </div>
                 <form>
-                  <form action="https://formcarry.com/s/mPhJXrBWGe6" method="POST" accept-charset="UTF-8" >
+                <form action="https://formsubmit.co/jamr1989@gmail.com" method="POST" />
                   <input type="email" name="email" placeholder="Email Address"  required/>
                   <input type="text" name="firstName" placeholder="Your Name" required/>
-                  <input type="text" name="lastName">
                   <textarea type="text" name="anotherInput" placeholder="Type your Message" required></textarea>
-                  <input type="hidden" name="_gotcha">
+                  <input type="hidden" name="_captcha" value="false">
                   <input type="submit" value="Send" />
                 </form>
              </div>
