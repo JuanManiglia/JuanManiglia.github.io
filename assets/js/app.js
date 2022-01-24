@@ -134,11 +134,10 @@ let footer = $(`
               </div>
                 <form>
                 <form action="https://formsubmit.co/jamr1989@gmail.com" method="POST" />
-                  <input type="email" name="email" placeholder="Email Address"  required/>
-                  <input type="text" name="firstName" placeholder="Your Name" required/>
-                  <textarea type="text" name="anotherInput" placeholder="Type your Message" required></textarea>
-                  <input type="hidden" name="_captcha" value="false">
-                  <input type="submit" value="Send" />
+                  <input name="email" type="email" placeholder="Email Address"  required/>
+                  <input name="name" type="text" placeholder="Your Name" required/>
+                  <textarea name="message" placeholder="Type your Message" required></textarea>
+                  <button type="submit">Send</button>
                 </form>
              </div>
           </div>
