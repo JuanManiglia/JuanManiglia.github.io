@@ -132,13 +132,22 @@ let footer = $(`
              <div class="form-header">
                 <h6 class="display">Get in Touch</h6>
               </div>
-                <form>
-                <form action="https://formsubmit.co/jamr1989@gmail.com" method="POST" />
-                  <input name="email" type="email" placeholder="Email Address"  required/>
-                  <input name="name" type="text" placeholder="Your Name" required/>
-                  <textarea name="message" placeholder="Type your Message" required></textarea>
-                  <button type="submit">Send</button>
-                </form>
+              <form target="_blank" action="https://formsubmit.co/jamr1989@gmail.com" method="POST">
+              <div class="form-group">
+                <div class="form-row">
+                  <div class="col">
+                    <input type="text" name="name" class="form-control" placeholder="Full Name" required>
+                  </div>
+                  <div class="col">
+                    <input type="email" name="email" class="form-control" placeholder="Email Address" required>
+                  </div>
+                </div>
+              </div>
+              <div class="form-group">
+                <textarea placeholder="Your Message" class="form-control" name="message" rows="10" required></textarea>
+              </div>
+              <button type="submit" class="btn btn-lg btn-dark btn-block">Submit</button>
+            </form>
              </div>
           </div>
         </div>
