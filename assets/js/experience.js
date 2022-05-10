@@ -6,25 +6,25 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Asistente de Ingeniero",
+    title: "Data Science - Teacher Assistant",
+    cardImage: "assets/images/experience-page/the_bridge.png",
+    place: "The Bridge | Digital Talent Accelerator",
+    time: "(Ene, 2022 - Act.)",
+    desp:"<li>Comunicar al lead instructor sobre el plan de estudios y presentar informes 2 veces por semana para mantener actualizados los planes de aprendizaje para los alumnos.</li><li>Dar tutorías para responder las preguntas de los estudiantes, lo que permite que el lead instructor complete el contenido de lecciones a tiempo.</li></li>Desarrollar un análisis exploratorio de datos para ayudar al CEO con un proyecto sobre el reskilling para aumentar la captación de alumnos Implementar un aprendizaje reforzado de habilidades para los estudiantes a través de controles diarios y semanales.</li>",
+  },
+  {
+    title: "Ingeniero",
     cardImage: "assets/images/experience-page/Shanna.png",
     place: "Constructora Shanna",
-    time: "(Abr, 2007 - 2018)",
-    desp: "<li>Dar asistencia en estudios técnicos y básicos, anteproyectos, proyectos y presupuestos de las obras, siguiendo las instrucciones emitidas por los profesionales encargados.</li> <li>Participar y colaborar en la coordinación de proyectos u obras para llevar un control del avance alcanzado y de las etapas por concluir.</li> <li>Elaborar cálculos matemáticos y de costos de diferentes obras o estructuras civiles, Reconocer e interpretar planos y hojas cartográficas, curvas de nivel, perfiles de terreno.</li>",
+    time: "(2010 - 2020)",
+    desp: "<li>Planificar y diseñar proyectos civiles, tales como la realización de edificios, caminos, carreteras, autopistas, sistemas de aguas limpias y residuales, al igual que sistemas de tratamiento de desechos.</li> <li>Establecer y hacer seguimiento al cumplimiento del tiempo de ejecución de los trabajos.</li> <li>Interpretar, revisar y aprobar cualquier topografía o trabajo de diseño civil.</li>",
   },
   {
-    title: "Docente Dibujo Técnico",
+    title: "Profesor de Matematicas",
     cardImage: "assets/images/experience-page/CCTO5.gif",
     place: "Colegio Ciencia y Tecnología Orinoco",
-    time: "(Oct, 2015 - Jul, 2018)",
-    desp: "<li>Clases a 6 grupos de diferentes niveles educativos.</li><li>Aplicación de métodos de enseñanza iductiva, analógica e inversa.</li><li>Preparación de materiales didácticos para mejorar la experiencia y el aprendizaje del alumnado.</li></li>Capacidades comunicativas para captar la atención del alumnado</li>"
-  },
-  {
-    title: "Encargado de Restaurante",
-    cardImage: "assets/images/experience-page/meraki.jpg",
-    place: "meraki kitchen & bar",
-    time: "(Nov, 2018 - Jun, 2021)",
-    desp:"<li>Diseñar el horario del personal para garantizar una dotación adecuada.</li><li>Hacer seguimiento de los niveles de alimentos, suministros y equipos, prever necesidades y supervisar los pedidos cuando proceda.</li></li>Responsable de los presupuestos y de métodos de control de coste para minimizar gastos.</li></li>Cargar en el sistema el inventario de compras y administrar insumos equipos y bebidas</li>",
+    time: "(2015 - 2020)",
+    desp: "<li>Enseñé a más de 100 estudiantes simultáneamente mientras brindaba un alto grado de personalización educativa cuando era necesario.</li><li>Planificar y ejecutar metódicamente los planes de lecciones, incluido la recopilación de los recursos necesarios para completar una lección determinada.</li></li>Construir y ejecutar planes de lecciones que abarcan todas las áreas temáticas, incluidas estadística, matemáticas y geometría.</li>"
   },
 ];
 

@@ -69,6 +69,26 @@ const moocscards = [
     cardImage: "assets/images/education-page/mlop.png",
     moocLink: "https://api.badgr.io/public/assertions/aPD7R759S8SC2duhFKt4Tw?identity__email=jamr1989%40gmail.com",
   },
+  {
+    title: "Tableau",
+    cardImage: "assets/images/education-page/tableau.png",
+    moocLink: "https://api.badgr.io/public/assertions/sKt3ofoaQrSJ_wnxJHrlEA?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "Maths for Data Science",
+    cardImage: "assets/images/education-page/mate.png",
+    moocLink: "https://api.badgr.io/public/assertions/SWUGEjQ-RUu3dTBrOrnMpw?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "Agile",
+    cardImage: "assets/images/education-page/agile.png",
+    moocLink: "https://api.badgr.io/public/assertions/xbrxcPYzTgGmSmf7abOctA?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "SQL",
+    cardImage: "assets/images/education-page/sql.png",
+    moocLink: "https://api.badgr.io/public/assertions/QYQPXmeJQvW3ZmcxZ8x1Nw?identity__email=jamr1989%40gmail.com",
+  },
 ];
 
 const experience = [
@@ -207,6 +227,26 @@ const badgesection = [
     title: "MLOps",
     image: "assets/images/education-page/mlop.png",
     description: "https://api.badgr.io/public/assertions/aPD7R759S8SC2duhFKt4Tw?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "Tableau",
+    image: "assets/images/education-page/tableau.png",
+    description: "https://api.badgr.io/public/assertions/sKt3ofoaQrSJ_wnxJHrlEA?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "Maths for Data Science",
+    image: "assets/images/education-page/mate.png",
+    description: "https://api.badgr.io/public/assertions/SWUGEjQ-RUu3dTBrOrnMpw?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "Agile",
+    image: "assets/images/education-page/agile.png",
+    description: "https://api.badgr.io/public/assertions/xbrxcPYzTgGmSmf7abOctA?identity__email=jamr1989%40gmail.com",
+  },
+  {
+    title: "SQL",
+    image: "assets/images/education-page/sql.png",
+    description: "https://api.badgr.io/public/assertions/QYQPXmeJQvW3ZmcxZ8x1Nw?identity__email=jamr1989%40gmail.com",
   },
 ];
 
