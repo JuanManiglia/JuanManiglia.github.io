@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Data Science - Teacher Assistant",
-    cardImage: "assets/images/experience-page/bridge.png",
+    cardImage: "assets/images/experience-page/bridge.png", 
     place: "The Bridge | Digital Talent Accelerator",
     time: "(Ene, 2022 - Act.)",
     desp:"<li>Comunicar al lead instructor sobre el plan de estudios y presentar informes 2 veces por semana para mantener actualizados los planes de aprendizaje para los alumnos.</li><li>Dar tutorías para responder las preguntas de los estudiantes, lo que permite que el lead instructor complete el contenido de lecciones a tiempo.</li></li>Desarrollar un análisis exploratorio de datos para ayudar al CEO con un proyecto sobre el reskilling para aumentar la captación de alumnos Implementar un aprendizaje reforzado de habilidades para los estudiantes a través de controles diarios y semanales.</li>",

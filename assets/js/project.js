@@ -54,6 +54,13 @@ const projects = [
     tagimg: "assets/images/project-page/python.svg",
     Githublink: "https://github.com/JuanManiglia",
   },
+  {
+    title: "",
+    cardImage: "",
+    description: "",
+    tagimg: "",
+    Githublink: "",
+  },
   // {
   //   title: "Personal Book Library",
   //   cardImage: "assets/images/project-page/book.png",
