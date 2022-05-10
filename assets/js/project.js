@@ -49,7 +49,7 @@ const projects = [
   },
   {
     title: "GITHUB",
-    cardImage: "assets/images/project-page/octacat.png",
+    cardImage: "assets/images/project-page/octobiwan.jpg",
     description: "Github.",
     tagimg: "assets/images/project-page/python.svg",
     Githublink: "https://github.com/JuanManiglia",
